@@ -1,13 +1,13 @@
 # projeto-android
+
 <p align="center" >
-<img src="images/screenshot-watch.png" alt="Demonstração do Projeto" width="100%" />
-<img src="images/screenshot-watch-2.png" alt="Demonstração do Projeto" />
+<img src="imagens/screenshot.png" alt="Demonstração do Projeto" width="100%" />
 
 </p>
 
 ## 🖥️ Projeto
 
-Esse é um projeto de Relógio Digital. Onde por meios técnicos de data e Lógica de JavaScript conseguiremos proporcionar esse horário de acordo com o nosso fuso horário.
+Esse é um projeto do novo mascote do Android, os Bugdroids. Projeto feito com HTML5 e CSS3. Aplicando técnicas iniciantes de responsividade.
 
 ## 🚀 Tecnologias
 
@@ -15,5 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JavaScript
 - Git e Github
